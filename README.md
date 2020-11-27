@@ -1,2 +1,2 @@
 # spark-practice
-Practice with pyspark
+Pyspark examples for beginners.
